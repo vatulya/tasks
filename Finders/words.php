@@ -8,4 +8,5 @@ return [
 	'asdfasdfasd',
 	'Alpha',
 	'Beta',
+	'Gamma',
 ];
